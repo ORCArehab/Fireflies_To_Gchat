@@ -1,0 +1,12 @@
+node_modules
+dist
+coverage
+test
+.git
+.env
+.env.*
+*.md
+!README.md
+client_secret*.json
+credentials*.json
+service-account*.json

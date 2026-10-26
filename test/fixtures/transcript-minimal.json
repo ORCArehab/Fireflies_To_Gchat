@@ -1,0 +1,9 @@
+{
+  "id": "SYNTH02MIN",
+  "title": "Quick Check-in",
+  "date": 1761674400000,
+  "organizer_email": "ops-lead@orcarehab.example",
+  "transcript_url": "https://app.fireflies.ai/view/SYNTH02MIN",
+  "meeting_info": { "summary_status": "processed" },
+  "summary": { "overview": "Brief status check; no follow-ups were identified.", "short_summary": null, "action_items": "", "extended_sections": null }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "SYNTH01ABC",
+  "title": "Weekly Clinic Ops Sync",
+  "date": 1761584400000,
+  "dateString": "2025-10-27T17:00:00.000Z",
+  "organizer_email": "ops-lead@orcarehab.example",
+  "transcript_url": "https://app.fireflies.ai/view/Weekly-Clinic-Ops-Sync::SYNTH01ABC",
+  "calendar_id": "synthetic-series-123",
+  "meeting_info": { "summary_status": "processed" },
+  "summary": {
+    "overview": "The team reviewed scheduling coverage, the intake form update, and equipment maintenance. A longer overview paragraph follows.",
+    "short_summary": "The team reviewed scheduling coverage for next week, agreed to roll out the updated intake form, and assigned follow-ups on equipment maintenance.",
+    "action_items": "**Alex Rivera**\nPublish the updated intake form to the front desk (04:12)\nConfirm Saturday coverage with the PT team, Due: Oct 31 (10:45)\n\n**Sam Lee**\nSchedule the treadmill maintenance visit (18:03)\n\nShare the meeting notes with absent staff",
+    "extended_sections": [
+      { "title": "Key Decisions", "content": "- Adopt the updated intake form starting Monday\n- Keep Saturday clinic hours unchanged" },
+      { "title": "Risks", "content": "- Equipment downtime" }
+    ]
+  }
+}
